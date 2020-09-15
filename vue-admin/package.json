@@ -27,7 +27,9 @@
     "eslint-plugin-vue": "^7.0.0-0",
     "node-sass": "^4.12.0",
     "prettier": "^1.19.1",
-    "sass-loader": "^8.0.2",
-    "sass": "^1.22.10"
-  }
+    "sass": "^1.22.10",
+    "sass-loader": "^8.0.2"
+  },
+  "_id": "vue-admin@0.1.0",
+  "readme": "ERROR: No README data found!"
 }
