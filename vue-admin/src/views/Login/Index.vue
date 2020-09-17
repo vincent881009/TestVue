@@ -1,15 +1,17 @@
 <template>
-  <div id="login" class="login">
+  <div class="login">
     登录页
-    <el-button disabled>默认按钮</el-button>
+     <el-button type="primary">主要按钮</el-button>
   </div>
 </template>
 
-<script></script>
+<script>
+
+</script>
 
 <style lang="scss" scoped>
-.login {
-  height: 100vh;
+.login{
   background-color: lightblue;
+  height: 100vh;
 }
 </style>
